@@ -1,0 +1,915 @@
+- Nombre: Bastian Fuentes 
+- Rut: 20.095.721-0
+- Telefono: +56974719939
+- Agencia: EnviosyEnvios[X] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[X]
+- Direccion: Las violetas 200
+- Comuna: Quilicura 
+- Comentario: Pagado
+- Libro Comun: [1]
+- Libro Mencion: []
+- Llavero Comun: [1]
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Matías Esteban Muñoz
+- Rut: 19.208.526-8
+- Telefono: +56968410664
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Pasaje Leif Ericson 9570
+- Comuna: La Granja
+- Comentario:
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: [1]
+- Llavero Mencion: []
+- Libros de ejercicios: [1]
+- Taco de notas: []
+- Nombre: Esperanza Lobos Mardones
+- Rut: 21.233.281-K
+- Telefono: +56996258173
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Hawai 634
+- Comuna: Maipú
+- Comentario:
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Maira Reimán Jaque 
+- Rut: 20.974.660-3
+- Telefono: +56971505395
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Pasaje Tiziano 716
+- Comuna: Maipú 
+- Comentario: Llamar cuando vengan, por favor 
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Rodrigo Bravo Escobar
+- Rut: 21.085.437-1
+- Telefono: +56990617453
+- Agencia: EnviosyEnvios[X] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[X]
+- Direccion: Estacion colina lo castro sitio 8
+- Comuna: Lampa
+- Comentario:
+- Libro Comun: [] 
+- Libro Mencion: []
+- Llavero Comun: [1]
+- Llavero Mencion: []
+- Libros de ejercicios: [1]
+- Taco de notas: []
+- Nombre: Priscila Veronica Martínez Ordenes
+- Rut: 12.234.147-k
+- Telefono: +56944751863
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Prat 6126
+- Comuna: Estación Central
+- Comentario:
+- Libro Comun: [] 
+- Libro Mencion: [1]
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Karla Gallardo 
+- Rut: 20.922.104-7 
+- Telefono: 931272307
+- Agencia:  EnviosyEnvios[X] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[X]
+- Destino: Sucursal[] o Domicilio[X]
+- Direccion: Blanco Encalada 2007 Depto 709
+- Comuna: Santiago Centro 
+- Comentario:
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: [1]
+- Taco de notas: []
+- Nombre: Marcelo Godoy
+- Rut: 21256276-9
+- Telefono: +56949308833
+- Agencia: EnviosyEnvios[x]o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[x]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Bombero Gabriel lima millam 1355
+- Comuna: San Ramon
+- Comentario:
+- Libro Comun: []
+- Libro Mencion: [1]
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Martina Gómez 
+- Rut: 21248387-7
+- Telefono: 999587453
+- Agencia: EnviosyEnvios[x]o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[x]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Ricardo Lyon 3300 
+- Comuna: ñuñoa 
+- Comentario:
+- Libro Comun: [1]
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Beatriz Pereira 
+- Rut: 9.081.504-0
+- Telefono: +56987690177
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: pillan 7399
+- Comuna: Cerrillos 
+- Comentario: lo recibe mi abuela Beatriz Pereira 
+- Libro Comun: [] 
+- Libro Mencion: [1]
+- Llavero Comun: [1]
+- Llavero Mencion: [1]
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Jairo Chacana Toribio
+- Rut: 21.162.207-5
+- Telefono: +56953616694
+- Agencia: EnviosyEnvios[x]o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[x]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: El abedul 0534
+- Comuna: Quilicura 
+- Comentario: villa santa Teresa 
+- Libro Comun: [] 
+- Libro Mencion: []
+- Llavero Comun: [1]
+- Llavero Mencion: []
+- Libros de ejercicios: [1]
+- Taco de notas: []
+- Nombre: Catalina Peña
+- Rut: 21.085.090-2
+- Telefono: 968974655
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Francisco Pizarro 2240
+- Comuna: Maipú 
+- Comentario:
+- Libro Comun: [x] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Carla Vega t
+- Rut: 19880170-4
+- Telefono: 994734930
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[x]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Eduardo cordero 01589
+- Comuna: puente alto
+- Comentario:
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: [1]
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Valentina Muñoz 
+- Rut: 23.541.581-k
+- Telefono: +56979677004
+- Agencia: EnviosyEnvios[X] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[X]
+- Destino: Sucursal[] o Domicilio[X]
+- Direccion: Camino del cerro #1388
+- Comuna: Quilicura, Valle lo campino 
+- Comentario: Casa esquina 
+- Libro Comun: [X] 
+- Libro Mencion: []
+- Llavero Comun: [X]
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Oscar Valenzuela Aravena
+- Rut: 21237604-3
+- Telefono: +56962718813
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Maullin 15041 Angelmo
+- Comuna: San Bernardo
+- Comentario: Llamar al teléfono celular
+- Libro Comun: [] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: [x]
+- Taco de notas: []
+- Nombre: Francisca Carreño acevedo 
+- Rut: 21.256.258-0
+- Telefono: +56953424760
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: pasaje Malloco #7938
+- Comuna: Cerro Navia 
+- Comentario:casa verde con portón negro 
+- Libro Comun: [x] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Nayely Muñoz  Kaelin 
+- Rut: 21071714-5
+- Telefono: 972662928 
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: pasaje piedras de chile 415
+- Comuna:Huechuraba 
+- Comentario:
+- Libro Comun: [] 
+- Libro Mencion: [1]
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Sebastian Riffo
+- Rut: 21059979-7
+- Telefono: +56949383341
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Salvador sur 1435, departamento 31.
+- Comuna: ñuñoa 
+- Comentario: Salvador sur es una calle corta, llegar al cecosf de la villa olímpica. Entrar por obispo orrego.
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Sofía Bontes
+- Rut: 21.030.120-8
+- Telefono: +56957827579
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Avenida Echeñique 7980 Casa B
+- Comuna: La reina
+- Comentario: 
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Constanza Cabezas Yañez 
+- Rut: 20.761.630-3
+- Telefono: +56998935675
+- Agencia: EnviosyEnvios[X] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[X] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[X]
+- Direccion: Pasaje El Fundo #580 
+- Comuna: Puente Alto
+- Comentario:
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: [1]
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Nedielka Aros
+- Rut: 21054789-4
+- Telefono: +56993275732
+- Agencia: EnviosyEnvios[X] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[X]
+- Destino: Sucursal[] o Domicilio[X]
+- Direccion: pasaje santa macarena 1292
+- Comuna: La Pintana
+- Comentario: En respecto al domicilio hay un portón que está cerrado la mayor parte del día, por esto agradecería que me avisaran antes de que llegase. 
+- Libro Comun: [] 
+- Libro Mencion: [X]
+- Llavero Comun: []
+- Llavero Mencion: [X] [X]
+- Libros de ejercicios: [X]
+- Taco de notas: []
+- Nombre: Matias Ordenes Moran
+- Rut: 21.370794-9
+- Telefono: +56984277193
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Calle Malloa 2946
+- Comuna: Maipu
+- Comentario:
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: María Luisa Mira.
+- Rut: 4.815.174-4
+- Telefono: +56942365778
+- Agencia: EnviosyEnvios[X] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[X]
+- Direccion: Av. Cristobal Colón 4695, depto 601.
+- Comuna: Las Condes.
+- Comentario: Es la casa de mi abuela Maria Luisa Mira./ el envío será depositado directamente por mí.
+- Libro Comun: [] 
+- Libro Mencion: [1]
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Nadia Pinto
+- Rut: 
+- Telefono: 949098904
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Francisco Miranda 0425
+- Comuna: San Bernardo
+- Comentario:
+- Libro Comun: [] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Glenda Soto 
+- Rut: 11865450-1
+- Telefono: 982761237
+- Agencia: EnviosyEnvios[x]o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[x]
+- Destino: Sucursal[]o Domicilio[x]
+- Direccion:Antupirén 9713
+- Comuna: Peñalolén 
+- Comentario: vivero don Lolo 
+- Libro Comun: [1]
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Paulina Ríos
+- Rut: 13669758-7
+- Telefono: +56979960946
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Caciques Chilenos Sur Coliqueo 6858
+- Comuna: Huechuraba
+- Comentario: Llamar al número dado cuando llegue al portón del barrio.
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: [1]
+- Llavero Mencion: []
+- Libros de ejercicios: [1]
+- Taco de notas: []
+- Nombre: Ayelén Martínez
+- Rut: 21.191.201-4
+- Telefono: 941984460
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Nicasio retamales 337
+- Comuna: estación central
+- Comentario:
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: José Luis Trabol Núñez 
+- Rut: 11.657.144-7
+- Telefono: +56994938177
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Belén 27
+- Comuna: las Condes 
+- Comentario:tocar el timbre y preguntar por José Luis 
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Tania Alvear 
+- Rut: 21.001.742-9
+- Telefono: +56965101034
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x]o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Esquina los raulies 11370
+- Comuna: El Bosque
+- Comentario:
+- Libro Comun: [1]
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: francisca javiera gomez acuña
+- Rut: 20.669.263-4
+- Telefono: 954627473
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[]
+- Direccion: Coquimbo 777
+- Comuna: santiago centro
+- Comentario:
+- Libro Comun: [] 
+- Libro Mencion: [1]
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Karen Aguilar 
+- Rut: 20.073.704-0
+- Telefono: +569 74508732
+- Agencia: EnviosyEnvios[X] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[X]
+- Direccion: Orquen 2734
+- Comuna: La Florida 
+- Comentario:
+- Libro Comun: [1]
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: José Domingo Tapia Tapia
+- Rut: 13.255.652-0
+- Telefono: +56967533133
+- Agencia: EnviosyEnvios[x]o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Santa Marta #807
+- Comuna: San Bernardo
+- Comentario: Santa Marta #807 Referencia América
+- Libro Comun: [1]
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+Nombre: Valentina Berrueta Araya
+- Rut: 20.505.347-6
+- Telefono: +56978479526
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Fernando Lazcano 1220, torre B, piso 15 departamento 1507
+- Comuna: San miguel
+- Comentario: avisar en conserjería
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Baithiare Belen Cervantes Ramos
+- Rut: 21.051.687-5
+- Telefono: 986938415
+- Agencia: EnviosyEnvios[] o Starken[x] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[x]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Cristobal colon 280
+- Comuna: peñaflor
+- Comentario: Pagado llamar cuando estén cerca
+- Libro Comun: [X] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Patricio toro 
+- Rut: 20837425-7
+- Telefono: 944164904
+- Agencia: EnviosyEnvios[x]o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[x]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Topocalma 6502
+- Comuna: Renca
+- Comentario: -
+- Libro Comun: [1]
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Orlando Miraglia 
+- Rut: 25.312.854-2
+- Telefono: 996681431
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Upsala 350 / 94
+- Comuna: Las Condes
+- Comentario:
+- Libro Comun: []
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: nathalie Valentina Rodriguez Rivas 
+- Rut: 21.087.159-4
+- Telefono: +56946792146
+- Agencia: EnviosyEnvios[x]o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: camino padre Hurtado 18380 condominio cumbres de nos casa 51F.
+- Comuna: San Bernardo 
+- Comentario: llamar en conserjería y decir la casa 51F
+- Libro Comun: [1]
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: [1]
+- Taco de notas: []
+- Nombre: Ignacio Maximiliano González Olguín 
+- Rut: 21078967-7
+- Telefono: +56966776631
+- Agencia: EnviosyEnvios[x]o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[X]
+- Direccion: Ejército libertador 688, depto 904
+- Comuna: Santiago Centro 
+- Comentario:
+- Libro Comun: [] 
+- Libro Mencion: [1]
+- Llavero Comun: []
+- Llavero Mencion: [1]
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Vicente Cardenas
+- Rut: 21.704.493-6
+- Telefono: 947192054
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Presidente Juan Luis Sanfuentes 2613 
+- Comuna: Maipú
+- Comentario: Llamar a mi teléfono para abrir el portón 
+- Libro Comun: [] 
+- Libro Mencion: [1]
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Bárbara Morales Escobar
+- Rut: 21.221.258-k
+- Telefono: +56937695216
+- Agencia: EnviosyEnvios [x] o Starken [] o CorreosDeChile []
+- Tipo: Sobre [x] o Encomienda []
+- Destino: Sucursal [] o Domicilio [x]
+- Direccion: Santa Viviana 13709 
+- Comuna: San Bernardo
+- Comentario: Es un almacén blanco
+- Libro Comun: [1]
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Victoria Diaz de Valdes 
+- Rut: 20538941-5 
+- Telefono: 949799752
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[x]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Av Santa María 6950
+- Comuna: Vitacura 
+- Comentario: departamento 5A
+- Libro Comun: [] 
+- Libro Mencion: [x]
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Jazmín Velásquez Milla 
+- Rut: 20.391.038-k
+- Telefono: +56935937248
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Calle 139 casa 997 villa lo Arrieta 
+- Comuna: Peñalolen 
+- Comentario: Tocar timbre 
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Soledad Farias Rojas
+- Rut: 20952638-7
+- Telefono: +56952100721
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Gastón Palma 1786
+- Comuna: Maipú 
+- Comentario:
+- Libro Comun: [x] 
+- Libro Mencion: []
+- Llavero Comun: [x]
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Natalia Erices
+- Rut: 21055959-0
+- Telefono: 976424013
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Vicuña Mackenna 985
+- Comuna: La Granja 
+- Comentario: casa de esquina 
+- Libro Comun: [] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: [x]
+- Taco de notas: []
+- Nombre: Katalina Acuña Diaz
+- Rut: 21.072.269-6
+- Telefono: +56 9 3218 7226
+- Agencia: EnviosyEnvios[X] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[X] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[X]
+- Direccion: Pasaje Lago cucao  1378
+- Comuna: San bernardo 
+- Comentario:
+- Libro Comun: [] 
+- Libro Mencion: []
+- Llavero Comun: [X]
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Angela Nicole Yauce Gil
+- Rut: 21307888-7
+- Telefono: +56956893700
+- Agencia: EnviosyEnvios[×] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[×]
+- Destino: Sucursal[] o Domicilio[×]
+- Direccion: Herrera 1290
+- Comuna: santiago centro
+- Comentario: es casa puerta blanca, en la esquina hay una botilleria 
+- Libro Comun: [x] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Nicolás Quintriqueo
+- Rut: 20.928.282-8
+- Telefono: +56978079337
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[x]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Magdalena Vicuña 1450 dpto 211
+- Comuna: San Miguel
+- Comentario: Envio pagado
+- Libro Comun: [] 
+- Libro Mencion: [1]
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Claudia Jara 
+- Rut: 20.640.854-5
+- Telefono: +56995909582
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[x]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Avenida Trinidad (poniente) 1507
+- Comuna: La florida
+- Comentario: 1507 hacia la costa 
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: [1]
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Rafael Gómez Ponce 
+- Rut: 12466100-5
+- Telefono: +56976545868
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: uno oriente 2336
+- Comuna: Macul
+- Comentario:
+- Libro Comun: [] 
+- Libro Mencion: [x]
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Fernanda Antonia Rodríguez Plaza
+- Rut: 21.156.845-3
+- Telefono: 956816477
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: General Arteaga 10070
+- Comuna: El bosque 
+- Comentario:
+- Libro Comun: [] 
+- Libro Mencion: [1]
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Marta Maulen Herrera
+- Rut: 20.871.528-3
+- Telefono: +56957558484
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo:  Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Pasaje Winston Churchill, casa 1105
+- Comuna: Padre Hurtado
+- Comentario: Casa Blanca 
+- Libro Comun: []
+- Libro Mencion: [1]
+- Llavero Comun: []
+- Llavero Mencion:[]
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Zaafiel Fernández
+- Rut: 21.232.685-2
+- Telefono: +56944631144
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[x]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Los ministros 1414 Barrio las rosas
+- Comuna: Maipú
+- Comentario: Es casa, así que llamar a la puerta
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: [1]
+- Taco de notas: []
+- Nombre: Gonzalo Edmundo Cerón Osorio
+- Rut: 13.680.639-4
+- Telefono: +56952276423
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Longitudinal cuatro #758 Independencia
+- Comuna: Independencia
+- Comentario: Disculpe las molestias, mi primera vez y realmente me pone nervioso, jajaja.
+- Libro Comun: [] 
+- Libro Mencion: [1]
+- Llavero Comun: [1]
+- Llavero Mencion: [1]
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Diego Núñez Valencia
+- Rut: 21.062.556-9
+- Telefono: +56963428353
+- Agencia: EnviosyEnvios[X] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[X]
+- Direccion: Avenida Santa Herminia 1351 Casa 38
+- Comuna: Padre Hurtado
+- Comentario: Besitos en las nalgas
+- Libro Comun: [] 
+- Libro Mencion: [1]
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Mauricio Meneses
+- Rut: 10.332.063-1
+- Telefono: +56933819225
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Av. Las Perdices 4160 Casa 35
+- Comuna: Peñalolen 
+- Comentario: Llamar en conserjería 
+- Libro Comun: [1]
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Catalina Cifuentes Osorio
+- Rut: 20.703.700-1
+- Telefono: +56966905914
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Nva las acacias 7696
+- Comuna: La Florida
+- Comentario: Hay que tocar el timbre
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Francisca López Gajardo
+- Rut: 21.283.876-4
+- Telefono: +56981821859
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: José Joaquín Vallejos 1250 Dpto 1 
+- Comuna: San Miguel
+- Comentario: Avisar a Conserje
+- Libro Comun: [] 
+- Libro Mencion: []
+- Llavero Comun: [1]
+- Llavero Mencion: [1]
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: David Espinoza 
+- Rut: 17.121.726-1
+- Telefono: +56958587797 
+- Agencia: EnviosyEnvios[X] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[X] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[X]
+- Direccion: monseñor horacio Campillo 1210
+- Comuna: Cerro Navia
+- Comentario:
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: carla campo
+- Rut: 21.028.995-k
+- Telefono: ‪+56946361726‬
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: villa quinto centenario calle nuevo mundo 2011
+- Comuna: San bernardo
+- Comentario:
+- Libro Comun: [x] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Rodolfo Gorigoitia 
+- Rut: 12.454.991-4
+- Telefono: 944675515 
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[x] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: José Domingo Cañas 1790 depto 13 
+- Comuna: Ñuñoa 
+- Comentario: Llamar al número de teléfono cuando llegue porque el citofono está malo :( 
+- Libro Comun: [1] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
+- Nombre: Valeria Castro
+- Rut: 
+- Telefono: 959923255
+- Agencia: EnviosyEnvios[x] o Starken[] o CorreosDeChile[]
+- Tipo: Sobre[] o Encomienda[]
+- Destino: Sucursal[] o Domicilio[x]
+- Direccion: Juan Pablo I 13056
+- Comuna: El Bosque
+- Comentario:
+- Libro Comun: [] 
+- Libro Mencion: []
+- Llavero Comun: []
+- Llavero Mencion: []
+- Libros de ejercicios: []
+- Taco de notas: []
