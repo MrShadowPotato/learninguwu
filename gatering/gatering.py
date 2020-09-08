@@ -1,14 +1,17 @@
 import csv
 from pyexcel.cookbook import merge_all_to_a_book
-import glob 
+import glob
+import Cliente from Cliente
+
 
 def destino_diferenciar(opcion):
     if 'Sucursal[x]' in opcion or 'Sucursal[X]' in opcion:
         return 'Sucursal'
     elif 'Domicilio[x]' in opcion or 'Domicilio[X]' in opcion:
         return 'Domicilio'
-    else :
+    else:
         return 'No indica'
+
 
 def agencia_diferenciar(opcion):
     if 'EnviosyEnvios[x]' in opcion or 'EnviosyEnvios[X]' in opcion:
@@ -20,6 +23,7 @@ def agencia_diferenciar(opcion):
     else:
         return 'No indica'
 
+
 def tipo_diferenciar(opcion):
     if 'Sobre[x]' in opcion or 'Sobre[X]' in opcion:
         return 'Sobre'
@@ -29,15 +33,14 @@ def tipo_diferenciar(opcion):
         return 'No indica'
 
 
-
 pedidos = []
-archivo = open('pedidos.txt','r',encoding='utf8')
+archivo = open('pedidos.txt', 'r', encoding='utf8')
 for linea in archivo:
     pedidos.append(linea.strip('\n'))
 archivo.close()
 print(len(pedidos))
 lista_pedidos = []
-for numero_pedido in range(int(len(pedidos)/15)):  
+for numero_pedido in range(int(len(pedidos)/15)): 
     cliente = {}
     for index in range(15):
         info_cliente = pedidos[index + (15*numero_pedido)]
@@ -68,10 +71,3 @@ for cliente in lista_pedidos:
     fila = ','.join(informacion_clientes)
     listado_pedidos.write('\n' + fila)
 listado_pedidos.close
-
-
-#merge_all_to_a_book(glob.glob('ListadoPedidos.csv'),"final.xlsx")
-
-print(lista_pedidos)
-
-print(len(lista_pedidos))
