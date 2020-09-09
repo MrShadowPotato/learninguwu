@@ -1,7 +1,7 @@
 import csv
 from pyexcel.cookbook import merge_all_to_a_book
 import glob
-import Cliente from Cliente
+from Cliente import Cliente
 
 
 def destino_diferenciar(opcion):
@@ -29,7 +29,7 @@ def tipo_diferenciar(opcion):
         return 'Sobre'
     elif 'Encomienda[x]' in opcion or 'Encomienda[X]' in opcion:
         return 'Encomienda'
-    else: 
+    else:
         return 'No indica'
 
 
@@ -40,7 +40,7 @@ for linea in archivo:
 archivo.close()
 print(len(pedidos))
 lista_pedidos = []
-for numero_pedido in range(int(len(pedidos)/15)): 
+for numero_pedido in range(int(len(pedidos)/15)):
     cliente = {}
     for index in range(15):
         info_cliente = pedidos[index + (15*numero_pedido)]
@@ -60,14 +60,17 @@ for numero_pedido in range(int(len(pedidos)/15)):
 formato = 'Nombre,Rut,Telefono,Agencia,Tipo,Destino,Direccion,Comuna,Comentario,Libro Comun,Libro Mencion,Llavero Comun,Llavero Mencion,Libros de ejercicios,Taco de notas'
 formato_lista = formato.split(',')
 
-listado_pedidos = open('ListadoPedidos.csv','w',encoding='utf8')
+listado_pedidos = open('ListadoPedidos.csv', 'w', encoding='utf8')
 listado_pedidos.write(formato)
-for cliente in lista_pedidos: 
+for cliente in lista_pedidos:
     informacion_clientes = []
     for num in range(15):
-        info = cliente[formato_lista[num]] 
+        info = cliente[formato_lista[num]]
         informacion_clientes.append(info)
     print(informacion_clientes)
     fila = ','.join(informacion_clientes)
     listado_pedidos.write('\n' + fila)
 listado_pedidos.close
+
+comprobar = len(pedidos) % 15 == 0 
+print(comprobar)
